@@ -4,7 +4,7 @@
  * Relative Sub-path Safe (GitHub Pages & Root Hosting Compatible)
  *
  * Strategy:
- * - Pre-caches Core App Shell (./, ./index.html, ./offline.html, ./manifest.json, ./manifest.webmanifest, ./icons/*).
+ * - Pre-caches Core App Shell (./, ./index.html, ./offline.html, ./manifest.json, ./manifest.json, ./icons/*).
  * - Navigation requests: Network-first with automatic fallback to cached ./index.html, then ./offline.html.
  * - Static same-origin assets: Stale-While-Revalidate for instant load + background freshness.
  * - Cleans up all older micro-ledger-pwa-* caches on activate so stale assets never persist.
@@ -18,11 +18,11 @@ const CORE_ASSETS = [
   './offline.html',
   './manifest.json',
   './manifest.webmanifest',
-  './icons/favicon.png',
-  './icons/apple-touch-icon.png',
-  './icons/icon-192.png',
-  './icons/icon-512.png',
-  './icons/icon-512-maskable.png'
+  './favicon.png',
+  './apple-touch-icon.png',
+  './icon-192.png',
+  './icon-512.png',
+  './icon-512-maskable.png'
 ];
 
 self.addEventListener('install', (event) => {
