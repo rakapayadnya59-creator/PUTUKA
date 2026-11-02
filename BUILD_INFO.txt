@@ -1,0 +1,21 @@
+PUTUKA — MICRO LEDGER & AI WORKOUT PWA
+Stage: PUTUKA TAHAP 2 (UI/UX Polish, Visual Refinement, Interaction Quality, Performance & Regression Safety)
+Build Version: v4.2.0-PUTUKA-T2
+Service Worker Cache: micro-ledger-pwa-v4.2.0-putuka-t2
+Baseline Source: PUTUKA Tahap 1 (index.html.v4_1_tahap1_baseline)
+Validation: check_web_app.py --previous (OK: no issues found) | node --check sw.js (OK) | 20/20 Headless Chromium 155 QA Checks PASSED
+
+FILES & SHA-256 CHECKSUMS:
+  index.html                            460732 bytes   sha256:25b37870c92271bb3766cd8e18772b2f0aa1f1c302f286ed2988fb3b56eb5172
+  manifest.json                            796 bytes   sha256:5ae15b14de37c85aa1c7c79a9851a934f4f06cfdc7902fb08dbf2359e4fcbf24
+  manifest.webmanifest                     796 bytes   sha256:5ae15b14de37c85aa1c7c79a9851a934f4f06cfdc7902fb08dbf2359e4fcbf24
+  sw.js                                   4381 bytes   sha256:aed8d491294c3715f767d83afde9d59296c78578bce034546619eabe5bc7e478
+  offline.html                            2572 bytes   sha256:094b0e074d1b54aa1795a3b629d66651677732ddae0929bb238b54bef2f5bbec
+  icons/favicon.png                       4213 bytes   sha256:9d642387b9c327e38c850a77dc59ddc20e0a5607d26136ba84c4fd9c31bfaff6
+  icons/apple-touch-icon.png             13151 bytes   sha256:1edb4515326eef2b2e8f339be141b3e564be3d708807666f5c37713e45d684ff
+  icons/icon-192.png                     14127 bytes   sha256:a593605870c769c551490cc33b8a27571e24c40357710487c3860dfa728eaf6a
+  icons/icon-512.png                     39772 bytes   sha256:017726f2bec1015b31e7ab28af788314e7b77763dd4377f8018afa6a0fdfabf1
+  icons/icon-512-maskable.png            24560 bytes   sha256:84820663bd14e4063344d14b339f3b60f705881edffa5bfa95392a5207d2e5a0
+  LAPORAN_TAHAP_2_PUTUKA.md              19046 bytes   sha256:0df09ed1580e2a97eec42c9f03d5f7f2893a40248838803f62a15afefa9cce95
+  CHANGELOG_TAHAP_2_PUTUKA.md             2901 bytes   sha256:29df91dbe174f2ad17604240151b39850b71fddbfd4807747278e8c259500605
+  README.md                               1279 bytes   sha256:2275104140bf55a97a2333de14515f0ae141efb40eb981668a497aae0d452a0f
