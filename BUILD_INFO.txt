@@ -1,0 +1,54 @@
+================================================================================
+PUTUKA — FINAL EXPERT RELEASE BUILD INFORMATION
+================================================================================
+Build ID            : v4.7.0-PUTUKA-FINAL-20261104
+Build Date (Local)  : 2026-11-04 (Asia/Makassar, UTC+8)
+Source Baseline     : index.html (v4.6.0-PUTUKA-TAHAP-4, 714,661 bytes, 12,308 lines)
+Service Worker Cache: micro-ledger-pwa-v4.7.0-putuka-final-20261104
+Canonical Manifest  : ./manifest.json (start_url: "./", scope: "./", display: "standalone")
+Release Status      : RELEASE CANDIDATE (R-01..R-10 PASS; R-11 Manual Android Device NOT TESTED)
+
+--------------------------------------------------------------------------------
+1. BRANDING & ICON ASSET PRESERVATION SUMMARY (GATE G2 / R-07)
+--------------------------------------------------------------------------------
+Original Uploaded File : 243614.png -> archived byte-for-byte at:
+                         assets/branding/source/app-icon-original.png
+Original Dimensions    : 1000x1000 (RGB, bitstream JPEG, transparent=False)
+Original Byte Size     : 128203 bytes
+Original SHA-256       : 49d4cc0dfcac4f7321292be372382429a96336f0b1974c85a5d13fe6909aac60
+
+Derived Canonical Icons (Lossless PNG, LANCZOS Resampling, Zero Crop / Zero Stretch):
+  - icons/favicon.png           : 64x64   PNG (1:1 contain from 1000x1000 original)
+    SHA-256: 6cad3752f8e7638a0eefcc6ba0fee1dd91c2815ded1bbad238b2436a0dfe1136
+  - icons/apple-touch-icon.png  : 180x180 PNG (1:1 contain from 1000x1000 original)
+    SHA-256: 3d742262d7e8e39b676b4de1e0cfa0cc646ad730b28b938918019f3984737d90
+  - icons/icon-192.png          : 192x192 PNG (purpose: "any", 1:1 contain)
+    SHA-256: 37a4d75317a8dcf7b2c722e8b5eb4998b73292066c4fa61b23ac6c1dc993a2c3
+  - icons/icon-512.png          : 512x512 PNG (purpose: "any", 1:1 contain)
+    SHA-256: 3e0e7243e7e82e826bab2e172c9c5c25e3b438139e1951720d6ede3978fdc5ed
+  - icons/icon-512-maskable.png : 512x512 PNG (purpose: "maskable", full 1000x1000 scaled to
+    316x316 centered at (98,98) on #000000 opaque canvas; max artwork radius from center
+    is 199.40px <= 204.80px 40% safe zone radius, 0% cropped)
+    SHA-256: 562adec6a40de8dcf5612010515417cb7599eb4d74ce42305d790c6af1d2d8dc
+
+--------------------------------------------------------------------------------
+2. FILE INVENTORY & SHA-256 CHECKSUMS (FROZEN PACKAGE CONTENTS)
+--------------------------------------------------------------------------------
+  Relative Path                                  | Byte Size | Media Type / Dimensions            | SHA-256
+  -----------------------------------------------+-----------+------------------------------------+-----------------------------------------------------------------
+  index.html                                     |    718218 B | text/html; charset=utf-8           | 8bbb59241b53cb04361617e6dac3c74686dbadb0fe112d69ba9977bc885c9609
+  manifest.json                                  |       827 B | application/manifest+json          | 2016e4876dde3e35ddef242af000dca8d358fd23f805878d96ecd0f54bdf858d
+  sw.js                                          |      4545 B | application/javascript             | 875c28ed7fb0d533bb971c3641cc28c0cafcc09ad93bc4a561d527db80e574a5
+  offline.html                                   |      2572 B | text/html; charset=utf-8           | 094b0e074d1b54aa1795a3b629d66651677732ddae0929bb238b54bef2f5bbec
+  .nojekyll                                      |         0 B | text/plain                         | e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+  README.md                                      |      5053 B | text/markdown; charset=utf-8       | 150c47910fb6b3edc6ad37fc56e183be174e264e9e7606a93bc83ab304b18ae6
+  DEPLOY_GITHUB_PAGES.md                         |      4222 B | text/markdown; charset=utf-8       | 2d290792e6c99e04dd5d9674a8f6116fe803595155ae860afefda1b38ccfe4b2
+  QA_REPORT_FINAL.md                             |      8315 B | text/markdown; charset=utf-8       | f0acf70ab1b73cfe401fb2e480280fb46c2474114295bbc1cc3c4c950930ccc2
+  CHANGELOG_FINAL.md                             |      3929 B | text/markdown; charset=utf-8       | 2174f615765c8fb99a86c06ce135246f5ad9664593253267fadcf6b7ca83143b
+  icons/favicon.png                              |      5450 B | image/png (64x64, RGB)             | 6cad3752f8e7638a0eefcc6ba0fee1dd91c2815ded1bbad238b2436a0dfe1136
+  icons/apple-touch-icon.png                     |     23821 B | image/png (180x180, RGB)           | 3d742262d7e8e39b676b4de1e0cfa0cc646ad730b28b938918019f3984737d90
+  icons/icon-192.png                             |     26726 B | image/png (192x192, RGB)           | 37a4d75317a8dcf7b2c722e8b5eb4998b73292066c4fa61b23ac6c1dc993a2c3
+  icons/icon-512.png                             |    121960 B | image/png (512x512, RGB)           | 3e0e7243e7e82e826bab2e172c9c5c25e3b438139e1951720d6ede3978fdc5ed
+  icons/icon-512-maskable.png                    |     60639 B | image/png (512x512, RGB)           | 562adec6a40de8dcf5612010515417cb7599eb4d74ce42305d790c6af1d2d8dc
+  assets/branding/source/app-icon-original.png   |    128203 B | image/jpeg (1000x1000, RGB)        | 49d4cc0dfcac4f7321292be372382429a96336f0b1974c85a5d13fe6909aac60
+================================================================================
