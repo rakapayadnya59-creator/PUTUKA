@@ -1,0 +1,22 @@
+PUTUKA — FINAL CAMERA ROOT-CAUSE FIX BUILD MANIFEST
+===================================================
+Build Version : v4.7.2-PUTUKA-CAMFIX
+SW Cache Name : micro-ledger-pwa-v4.7.2-putuka-camfix-20261104
+Camera Mode   : 9:16 Portrait Stage + Uncropped Full-FOV Camera Feed (object-fit: contain, resizeMode: none)
+Asset Layout  : Canonical Flat Root (./favicon.png, ./apple-touch-icon.png, ./icon-192.png, ./icon-512.png, ./icon-512-maskable.png, ./app-icon-original.png)
+
+FILES & SHA-256 CHECKSUMS:
+- index.html               |    726273 bytes | sha256:2d0d3106de7056d7313589ebbdb558e7ff79fbca9be51231d6490d5104938c09
+- manifest.json            |      1204 bytes | sha256:fecd4fefba4763f89cdab69ab799080aada5103c26d9757edd3e59908959b42b
+- sw.js                    |      5268 bytes | sha256:3f804f74f11e28b277ce56222a1ef2cace748eaca09a70c72aac81af3e1254de
+- favicon.png              |      5450 bytes | sha256:6cad3752f8e7638a0eefcc6ba0fee1dd91c2815ded1bbad238b2436a0dfe1136
+- apple-touch-icon.png     |     23821 bytes | sha256:3d742262d7e8e39b676b4de1e0cfa0cc646ad730b28b938918019f3984737d90
+- icon-192.png             |     26726 bytes | sha256:37a4d75317a8dcf7b2c722e8b5eb4998b73292066c4fa61b23ac6c1dc993a2c3
+- icon-512.png             |    121960 bytes | sha256:3e0e7243e7e82e826bab2e172c9c5c25e3b438139e1951720d6ede3978fdc5ed
+- icon-512-maskable.png    |     60639 bytes | sha256:562adec6a40de8dcf5612010515417cb7599eb4d74ce42305d790c6af1d2d8dc
+- app-icon-original.png    |    128203 bytes | sha256:49d4cc0dfcac4f7321292be372382429a96336f0b1974c85a5d13fe6909aac60
+- .nojekyll                |         0 bytes | sha256:e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+- README.md                |       987 bytes | sha256:cffef336811cc7fb6cd81603628d768ba657e77d8c5c81fb53e13b4df4e46d71
+- DEPLOY_GITHUB_PAGES.md   |      1551 bytes | sha256:9b8c7edfb6637cf95c314b92fd91a5e8be27ae9d9e206501e40ec0a847c109bf
+- CHANGELOG_FINAL.md       |      1716 bytes | sha256:d7d5e728c0ae1e94a81dfc00a701611aeddef11c7b52d2fed03cfe5fce3672aa
+- QA_REPORT_FINAL.md       |      7907 bytes | sha256:eed03d8c925b9aa1fa65a74702f34efc2ccbb6637c601f290675a1cc2db1fd96
