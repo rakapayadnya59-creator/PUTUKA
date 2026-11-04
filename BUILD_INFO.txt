@@ -1,0 +1,21 @@
+PUTUKA — FINAL POLISH RELEASE BUILD MANIFEST
+============================================
+Build Version : v4.7.1-PUTUKA-FINAL-POLISH
+SW Cache Name : micro-ledger-pwa-v4.7.1-putuka-polish-20261104
+Asset Layout  : Canonical Flat Root (./favicon.png, ./apple-touch-icon.png, ./icon-192.png, ./icon-512.png, ./icon-512-maskable.png, ./app-icon-original.png)
+
+FILES & SHA-256 CHECKSUMS:
+- index.html               |    718009 bytes | sha256:a642524a2127c3c926c54b4a51f12dadcca3cae47c1c0ab7dc41871b4c519f88
+- manifest.json            |      1204 bytes | sha256:fecd4fefba4763f89cdab69ab799080aada5103c26d9757edd3e59908959b42b
+- sw.js                    |      5274 bytes | sha256:8f1d5ad4883d6ad013753f37bbfca6550ce970c2284364cc8f0414c450fec63e
+- favicon.png              |      5450 bytes | sha256:6cad3752f8e7638a0eefcc6ba0fee1dd91c2815ded1bbad238b2436a0dfe1136
+- apple-touch-icon.png     |     23821 bytes | sha256:3d742262d7e8e39b676b4de1e0cfa0cc646ad730b28b938918019f3984737d90
+- icon-192.png             |     26726 bytes | sha256:37a4d75317a8dcf7b2c722e8b5eb4998b73292066c4fa61b23ac6c1dc993a2c3
+- icon-512.png             |    121960 bytes | sha256:3e0e7243e7e82e826bab2e172c9c5c25e3b438139e1951720d6ede3978fdc5ed
+- icon-512-maskable.png    |     60639 bytes | sha256:562adec6a40de8dcf5612010515417cb7599eb4d74ce42305d790c6af1d2d8dc
+- app-icon-original.png    |    128203 bytes | sha256:49d4cc0dfcac4f7321292be372382429a96336f0b1974c85a5d13fe6909aac60
+- .nojekyll                |         0 bytes | sha256:e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+- README.md                |      1010 bytes | sha256:3609a772a77e3ba9632ab0179c713125a3a28902166b13104747c028c0407d7a
+- DEPLOY_GITHUB_PAGES.md   |      1901 bytes | sha256:04395ca288a928c2a8816190c63176ec676e390cff4cc76f3a450de26bc8cab0
+- CHANGELOG_FINAL.md       |      2149 bytes | sha256:be113479f1762f00a7d181fe49e18feafedfc34b2c11631ee5855eb320cd8d9f
+- QA_REPORT_FINAL.md       |      6714 bytes | sha256:df9fd3a98b0278e32e3a1d7da577dfd89574cf7bd0d65d2cae0c0d7bcf5f54c9
